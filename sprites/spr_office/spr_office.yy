@@ -2,9 +2,9 @@
   "$GMSprite":"v2",
   "%Name":"spr_office",
   "bboxMode":0,
-  "bbox_bottom":767,
+  "bbox_bottom":1049,
   "bbox_left":0,
-  "bbox_right":1599,
+  "bbox_right":2999,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":768,
+  "height":1050,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"98e4486a-b8bb-49b0-b7e7-6016235eef38","blendMode":0,"displayName":"default","isLocked":false,"name":"98e4486a-b8bb-49b0-b7e7-6016235eef38","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"Main Zones",
+    "path":"folders/Sprites/Main Zones.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":1600,
+  "width":3000,
 }
